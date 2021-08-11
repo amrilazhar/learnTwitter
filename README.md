@@ -14,6 +14,10 @@ For the BEARER_TOKEN, we can get it from twitter Dev, after we initialize projec
 
 To run the server, enter to the directories and type :
 
+`npm install`
+
+after that run : 
+
 `npm start`
 
 it will run the app in the designated port.
