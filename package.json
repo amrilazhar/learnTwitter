@@ -1,0 +1,25 @@
+{
+  "name": "learntwitter",
+  "version": "1.0.0",
+  "description": "simple API to get user tweet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=development node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrilazhar/learnTwitter.git"
+  },
+  "author": "Amril",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amrilazhar/learnTwitter/issues"
+  },
+  "homepage": "https://github.com/amrilazhar/learnTwitter#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "fastify": "^3.20.1",
+    "twitter-v2": "^1.1.0"
+  }
+}
